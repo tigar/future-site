@@ -24,16 +24,13 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Adam Tigar',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Need to write',
     contacts: {
-      email: '#',
-      telegram: '#',
+      email: 'aatigar@gmail.com',
       twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      github: 'https://github.com/tigar/',
     }
   }
 };
